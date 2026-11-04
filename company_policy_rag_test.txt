@@ -1,0 +1,295 @@
+EMPLOYEE HANDBOOK AND COMPANY POLICY
+
+Company: Northstar Technologies Pvt. Ltd. Document ID: HR-POL-001
+Version: 1.0 Effective date: 1 April 2026 Department owner: Human
+Resources
+
+NOTE: This is a fictional company policy document created for testing a
+Retrieval-Augmented Generation (RAG) application. It is not legal advice
+or a real company’s policy.
+
+1.  PURPOSE AND SCOPE
+
+This handbook explains the workplace rules, employee benefits,
+attendance expectations, leave procedures, information security
+requirements, and internal processes at Northstar Technologies Pvt. Ltd.
+
+The policy applies to all full-time and part-time employees. Contractors
+and interns must follow the sections that apply to their engagement and
+any additional terms in their agreements.
+
+If a department-specific procedure conflicts with this handbook,
+employees should contact Human Resources for clarification. Only an
+authorized company policy update can change the rules in this document.
+
+2.  WORKING HOURS
+
+The standard working week is Monday through Friday.
+
+-   Standard working hours: 9:00 AM to 6:00 PM.
+-   Lunch break: 1:00 PM to 2:00 PM.
+-   Employees are expected to complete eight working hours per day,
+    excluding lunch.
+-   Employees may request a flexible start time between 8:00 AM and
+    10:00 AM with manager approval.
+-   Employees working remotely must remain available during their agreed
+    team collaboration hours.
+
+Some teams may follow different schedules because of customer support,
+operations, or project requirements. The team manager must communicate
+any approved schedule variation.
+
+3.  ATTENDANCE AND PUNCTUALITY
+
+Employees must record attendance using the company’s approved attendance
+system.
+
+Employees who expect to arrive late should inform their manager before
+their scheduled start time. If an employee cannot attend work because of
+an emergency, they should notify their manager as soon as reasonably
+possible.
+
+Repeated unexplained absence or inaccurate attendance records may be
+referred to Human Resources for review.
+
+Employees must not record attendance on behalf of another employee.
+
+4.  LEAVE POLICY
+
+4.1 Annual Leave
+
+Eligible full-time employees receive 18 days of paid annual leave per
+calendar year.
+
+Annual leave should normally be requested at least five working days in
+advance. Approval depends on team coverage and project requirements.
+
+Unused annual leave may be carried forward up to a maximum of five days
+into the next calendar year. Any additional carry-forward or payout is
+subject to the applicable employment agreement and company rules.
+
+4.2 Sick Leave
+
+Eligible employees receive 10 days of paid sick leave per calendar year.
+
+Employees should inform their manager as early as possible when taking
+sick leave. For an absence of more than three consecutive working days,
+Human Resources may request appropriate supporting documentation,
+subject to applicable law.
+
+4.3 Emergency Leave
+
+Employees may request emergency leave when an unexpected personal or
+family situation requires immediate attention.
+
+The employee should notify their manager as soon as possible. Human
+Resources will review the leave category and applicable balance.
+
+4.4 Public Holidays
+
+The company publishes an annual holiday calendar. Employees should refer
+to the latest calendar issued by Human Resources because holiday dates
+may vary by office location.
+
+5.  REMOTE WORK POLICY
+
+Employees may work remotely up to two days per week, subject to role
+suitability and manager approval.
+
+Remote work requests should be submitted through the company’s HR portal
+at least one working day in advance.
+
+Employees working remotely must: 1. Use a secure internet connection. 2.
+Protect company devices from unauthorized access. 3. Attend scheduled
+meetings. 4. Keep their work calendar updated. 5. Follow the same
+working-hour and information-security requirements as office-based
+employees.
+
+Remote work is not an automatic entitlement. A manager may require
+office attendance for meetings, training, customer visits, or
+operational needs.
+
+6.  CODE OF CONDUCT
+
+All employees are expected to behave professionally and respectfully.
+
+Employees must: - Treat colleagues, customers, and business partners
+with respect. - Avoid harassment, discrimination, bullying, and
+intimidation. - Protect confidential company and customer information. -
+Disclose potential conflicts of interest. - Use company property
+responsibly. - Follow applicable laws and company policies.
+
+Employees must not use company systems to engage in unlawful activities,
+distribute malicious software, or access information without
+authorization.
+
+Concerns about misconduct should be reported to Human Resources or
+through the designated reporting channel.
+
+7.  INFORMATION SECURITY POLICY
+
+Company information must be protected against unauthorized access, loss,
+or disclosure.
+
+7.1 Passwords
+
+Employees must use unique passwords for company accounts. Passwords must
+not be shared with colleagues or stored in unapproved plain-text
+documents.
+
+Multi-factor authentication (MFA) must be enabled wherever the company
+provides it.
+
+7.2 Company Devices
+
+Employees must use approved devices and software for company work. Lost
+or stolen company devices must be reported to the IT Helpdesk
+immediately.
+
+Employees must not disable endpoint protection, bypass security
+controls, or install unapproved software.
+
+7.3 Data Classification
+
+Company information is classified into three categories:
+
+-   Public: Information approved for public distribution.
+-   Internal: Information intended for employees and approved business
+    partners.
+-   Confidential: Sensitive business, employee, financial, or customer
+    information requiring restricted access.
+
+Confidential information must only be shared with authorized recipients
+through approved company channels.
+
+7.4 Phishing and Suspicious Messages
+
+Employees must not open suspicious attachments or follow unexpected
+links. Suspected phishing messages should be reported to the IT Helpdesk
+using the approved reporting process.
+
+8.  EXPENSE REIMBURSEMENT POLICY
+
+Employees may request reimbursement for reasonable, approved business
+expenses.
+
+Examples include: - Approved business travel. - Customer meeting
+expenses. - Pre-approved software or equipment purchases. - Other
+expenses authorized by a department manager.
+
+Employees must submit expense claims through the finance portal within
+30 calendar days of the expense date.
+
+Each claim must include an itemized receipt, business purpose, expense
+date, and manager approval where required.
+
+The Finance Department aims to process complete and approved claims
+within 10 business days. Incomplete claims may be returned for
+additional information.
+
+Personal purchases are not reimbursable.
+
+9.  TRAVEL POLICY
+
+Business travel must receive manager approval before booking.
+
+Employees should use the company’s approved travel booking process.
+Economy class is the standard option for domestic flights unless an
+exception is approved by a department head.
+
+Hotel bookings should follow the accommodation limits communicated by
+Finance for the destination.
+
+Employees must retain receipts for eligible travel expenses and submit
+their claims within 30 calendar days after the expense date.
+
+10. PROBATION AND PERFORMANCE REVIEWS
+
+New employees normally complete a probation period of six months, unless
+their employment agreement specifies otherwise.
+
+Managers should provide feedback during probation and conduct a formal
+review before the probation period ends.
+
+Regular employees receive a performance review once per year. Reviews
+may consider: - Quality of work. - Achievement of agreed goals. -
+Collaboration and communication. - Reliability and ownership. -
+Professional development.
+
+A performance review does not automatically guarantee a salary increase,
+promotion, or bonus.
+
+11. LEARNING AND DEVELOPMENT
+
+Employees may request support for job-related training and
+certifications.
+
+The annual learning budget is up to INR 15,000 per eligible employee,
+subject to manager approval and available department funds.
+
+Training requests must include the course name, provider, cost,
+relevance to the employee’s role, and expected completion date.
+
+Employees must obtain written approval before purchasing a course.
+Unapproved purchases are not guaranteed reimbursement.
+
+12. IT SUPPORT
+
+Employees should report technical problems through the IT Helpdesk
+portal.
+
+The IT Helpdesk operates Monday through Friday, from 9:00 AM to 6:00 PM,
+excluding company holidays.
+
+Standard initial response targets: - Critical: Company-wide system
+outage — 1 business hour. - High: Employee cannot access a key business
+system — 4 business hours. - Normal: Software issue affecting regular
+work — 1 business day. - Low: General request or minor configuration
+change — 3 business days.
+
+These are initial response targets, not guaranteed resolution times. The
+IT team may update the employee if investigation takes longer.
+
+For a suspected security incident, employees must use the urgent
+security reporting channel rather than waiting for a normal support
+response.
+
+13. RESIGNATION AND EXIT PROCESS
+
+Employees who resign should submit written notice to their manager and
+Human Resources.
+
+The standard notice period is 30 calendar days, unless the employment
+agreement specifies a different period.
+
+Before the final working day, employees must: 1. Complete the handover
+of assigned work. 2. Return company equipment and access cards. 3.
+Transfer relevant work documents to approved company storage. 4. Submit
+outstanding expense claims. 5. Complete the exit interview if requested.
+
+Final settlement is processed according to the employment agreement and
+applicable law.
+
+14. POLICY QUESTIONS AND EXCEPTIONS
+
+Employees who need clarification should contact Human Resources at
+hr@northstar.example.
+
+Questions about passwords, devices, or suspicious messages should be
+sent to it-helpdesk@northstar.example.
+
+Questions about reimbursement should be sent to
+finance@northstar.example.
+
+Exceptions to this handbook require written approval from the relevant
+department head and Human Resources. An informal verbal statement does
+not change the written policy.
+
+15. DOCUMENT CONTROL
+
+Document title: Employee Handbook and Company Policy Document ID:
+HR-POL-001 Version: 1.0 Effective date: 1 April 2026 Policy owner: Human
+Resources Review frequency: Annually Next scheduled review: 1 April 2027
+
+Only the latest approved version should be treated as authoritative.
+Employees should check the company HR portal for policy updates.
