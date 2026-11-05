@@ -1,0 +1,13 @@
+SHOPKART DELIVERY POLICY
+
+Delivery charges: Standard delivery is free on orders of 499 INR and above. Orders below 499 INR are charged a delivery fee of 40 INR.
+
+Standard delivery time: Standard delivery takes 3 to 5 business days after the order is shipped.
+
+Express delivery: Express delivery is available in metro cities only. It takes 1 to 2 business days and costs an extra 99 INR per order.
+
+Tracking orders: Once an order is shipped, ShopKart sends a tracking link by SMS and email. Customers can also track the order under the My Orders section of the ShopKart website or app.
+
+Delivery locations: ShopKart delivers to all serviceable PIN codes across India. International delivery is not available.
+
+Delayed delivery policy: If an order is not delivered within 2 business days after the promised delivery date, the customer can contact ShopKart support. If the delay is more than 7 days, the customer can cancel the order and receive a full refund. The express delivery fee is refunded if an express order is late.

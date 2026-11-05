@@ -1,0 +1,50 @@
+SHOPKART PRODUCT CATALOG
+
+PRODUCT 1
+Product ID: SK101
+Name: Samsung Galaxy M35
+Category: Smartphone
+Price: 19,999 INR
+Brand: Samsung
+RAM: 8GB
+Storage: 128GB
+Battery: 6000mAh
+Display: Super AMOLED
+Availability: In Stock
+Warranty: 1 Year
+
+PRODUCT 2
+Product ID: SK102
+Name: Redmi Note 14
+Category: Smartphone
+Price: 17,999 INR
+Brand: Xiaomi
+RAM: 8GB
+Storage: 128GB
+Battery: 5500mAh
+Display: AMOLED
+Availability: In Stock
+Warranty: 1 Year
+
+PRODUCT 3
+Product ID: SK103
+Name: HP Pavilion Laptop
+Category: Laptop
+Price: 59,999 INR
+Brand: HP
+RAM: 16GB
+Storage: 512GB SSD
+Processor: Intel Core i5
+Availability: In Stock
+Warranty: 1 Year
+
+PRODUCT 4
+Product ID: SK104
+Name: boAt Airdopes 141
+Category: Earbuds
+Price: 1,299 INR
+Brand: boAt
+Battery Life: 42 Hours
+Connectivity: Bluetooth
+Availability: Out of Stock
+Warranty: 1 Year

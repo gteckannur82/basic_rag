@@ -1,0 +1,13 @@
+SHOPKART PAYMENT POLICY
+
+UPI: ShopKart accepts UPI payments through Google Pay, PhonePe, Paytm and BHIM. UPI payments are confirmed instantly.
+
+Credit and debit cards: Visa, Mastercard and RuPay credit and debit cards are accepted. Every card payment is verified with a one-time password (OTP).
+
+Cash on delivery: Cash on delivery is available for orders up to 10,000 INR in serviceable PIN codes. A cash on delivery fee of 30 INR applies.
+
+EMI: No-cost EMI is available on select credit cards for orders above 3,000 INR, with 3, 6 or 9 month plans. Debit card EMI is available from select banks.
+
+Payment failures: If money is deducted but the order is not confirmed, the amount is refunded automatically to the original payment method within 5 to 7 business days. The customer can retry the payment, and should contact support if the refund does not arrive after 7 business days.
+
+Refund payment methods: Refunds go back to the original payment method. For cash on delivery orders, the refund is sent to the customer's bank account by bank transfer or UPI.
